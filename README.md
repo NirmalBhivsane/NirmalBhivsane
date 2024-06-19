@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nirmal Namdeo Bhivsnae</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nirmal Namdeo Bhivsane</h1>
+<h3 align="center">I'm a passionate self-taught developer currently pursuing a Bachelor of Technology degree with a specialization in Data Science. My journey in the world of technology has been driven by a deep curiosity and a desire to turn innovative ideas into reality.</h3>
 
 - 📫 How to reach me **nirmalbhivsane27@gmail.com**
 
