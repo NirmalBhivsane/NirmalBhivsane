@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nirmal Namdeo Bhivsane</h1>
-<h3 align="center">I'm a passionate self-taught developer currently pursuing a Bachelor of Technology degree with a specialization in Data Science. My journey in the world of technology has been driven by a deep curiosity and a desire to turn innovative ideas into reality.</h3>
+<h1 align="center">Hi 👋, I'm Nirmal Namdeo Bhivsnae</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 🌱 I'm constantly learning **and exploring new technologies, tools, and techniques to stay ahead in this ever-evolving field. I believe in the importance of elegant interfaces, efficient architectures, and top-notch code quality.**
 
 - 📫 How to reach me **nirmalbhivsane27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/nirmal-bhivsane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nirmal-bhivsane" height="30" width="40" /></a>
+<a href="https://instagram.com/nirmal bhivsaned insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirmal bhivsaned insta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+<a href="https://discord.gg/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
