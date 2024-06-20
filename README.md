@@ -8,9 +8,9 @@
 
 - 📝 I regularly write articles on India's leading learning platform Geeks for Geeks [https://www.geeksforgeeks.org/user/nirmalbhiqj10/](https://www.geeksforgeeks.org/user/nirmalbhiqj10/)
 
-- 💬 I'm always happy to help and share knowledge. **Let's connect and learn together!**
-
 - 📫 I also enjoy working on freelance projects.If you have any opportunities, feel free to **nirmalbhivsane27@gmail.com**
+
+- 💬 I'm always happy to help and share knowledge. **Let's connect and learn together!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
